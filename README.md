@@ -5,3 +5,8 @@
 ## Problem Description
 ### Stakeholder Requirments
 #### Mockup design
+## SQL code 
+
+`SELECT *
+ FROM spotify
+ WHERE type='Ad_user'`
