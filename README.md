@@ -2,9 +2,9 @@
 1. Problem Description
 2. Creating Visualization
    | Viz type | Description |
-| ----------- | ----------- |
-   Bar chart | Show the channel type by conversion |
-   Line Chat | Conversion rate over time |
+    | ----------- | ----------- |
+   | Bar chart | Show the channel type by conversion |
+   | Line Chat | Conversion rate over time |
 4. Finalizing Dashbaord
 ## Problem Description
 ### Stakeholder Requirments
